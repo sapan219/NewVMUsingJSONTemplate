@@ -1,3 +1,2 @@
 # Deploy to Azure Button
-
-<img src="https://aka.ms/deploytoazurebutton"/>
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/sapan219/NewVMUsingJSONTemplate/main/AzureVMDeploy.json)
